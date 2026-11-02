@@ -18,9 +18,3 @@ Discord quest automation script.
 7. Press **Enter**. The script will start running and you can use it.
 
 Thanks for using Tomst-Quest!
-
-## Disclaimer
-
-This project is for educational purposes only. Using client mods and automation scripts may go against Discord's Terms of Service and could put your account at risk. Use it at your own risk. The author is not responsible for any bans or other consequences.
-
-Only paste code into the console that you trust. Never paste scripts from sources you do not know.
